@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Belajar HTML5</title>
+    </head>
+    <body>
+        <header>
+            <h1>Judul Website</h1>
+            <img src="html5.jpg" width="300px">
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        <section>
+            <articel>
+                <header>
+                    <h1>Judul Artikel 1</h1>
+                    <h2>Sub Judul Artikel 1</h2>
+                </header>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur praesentium consequuntur eos, possimus error incidunt non labore maiores a! Excepturi reiciendis ducimus fuga earum! Repellendus quidem officiis tempore inventore ullam?</p>
+            </articel>
+            <articel>
+                <header>
+                    <h1>Judul Artikel 2</h1>
+                    <h2>Sub Judul Artikel 2</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tenetur quod cumque debitis, sed exercitationem praesentium ad veniam et natus voluptas aspernatur maiores id non ipsa aliquam incidunt reprehenderit error!</p>
+                </header>
+            </articel>
+        </section>
+        <aside>
+            <h1>Artikel Terbaru</h1>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+                <li><a href="#">Link 3</a></li>
+            </ul>
+        </aside>
+        <footer>
+            <p>Footer - Copyrigth Duniailkom 2014</p>
+        </footer>
+    </body>
+</html>
